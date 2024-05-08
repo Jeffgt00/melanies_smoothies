@@ -1,5 +1,5 @@
 # Import python packages
-import streamlit as st
+import stredqwdqwamlit as st
 from snowflake.snowpark.functions import col
 
 cnx = st.connection("snowflake")
